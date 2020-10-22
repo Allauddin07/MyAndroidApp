@@ -1,2 +1,2 @@
-# MyAndroidApp
+# MyMiniProject
  
